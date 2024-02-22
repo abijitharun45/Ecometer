@@ -9,3 +9,5 @@ Developers interested in contributing to Ecometer are invited to join us in our 
 Join the movement. Measure, reduce, and track your carbon footprint with Ecometer.
 
 
+![Screenshot 2023-12-05 114720](https://github.com/abijitharun45/Ecometer/assets/132763981/fe063b9c-f91d-4250-becd-065b3d12e254)
+![Screenshot 2023-12-05 120950](https://github.com/abijitharun45/Ecometer/assets/132763981/4fdcad09-79ae-46cf-8b3a-603e94967aa3)
