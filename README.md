@@ -11,3 +11,7 @@ Join the movement. Measure, reduce, and track your carbon footprint with Ecomete
 
 ![Screenshot 2023-12-05 114720](https://github.com/abijitharun45/Ecometer/assets/132763981/fe063b9c-f91d-4250-becd-065b3d12e254)
 ![Screenshot 2023-12-05 120950](https://github.com/abijitharun45/Ecometer/assets/132763981/4fdcad09-79ae-46cf-8b3a-603e94967aa3)
+![Screenshot 2024-02-22 122239](https://github.com/abijitharun45/Ecometer/assets/132763981/9b57f3ed-de15-4744-8a94-f293c620d9a9)
+![Screenshot 2024-02-22 122406](https://github.com/abijitharun45/Ecometer/assets/132763981/8b3c40ec-bd51-4f22-b647-e373fda75105)
+![Screenshot 2024-02-22 122600](https://github.com/abijitharun45/Ecometer/assets/132763981/e1612b0a-c2cc-4b3f-afb9-80c97a5ed1a3)
+![Screenshot 2024-02-22 122613](https://github.com/abijitharun45/Ecometer/assets/132763981/d5f5114c-17ef-48a7-b68a-a6233034b6d4)
